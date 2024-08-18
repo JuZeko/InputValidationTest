@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="InputValidationBaseUrl" value="https://testpages.eviltester.com/styled/validation/input-validation.html" />
+	</TestRunParameters>
+</RunSettings>
